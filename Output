@@ -1,0 +1,78 @@
+{
+  "Profile": "Enthusiastic and dedicated Computer Science Engineering student seeking challenging opportunities to apply my technical skills and passion for innovation. Eager to learn more and to contribute in cutting-edge projects and collaborate with a dynamic team to create impactful solutions in the field of technology.",
+  "Education": [
+    {
+      "Institution": "SRM Institute of Science and Technology",
+      "Duration": "07/2021 – present",
+      "Degree": "Btech CSE",
+      "CGPA": "9.79",
+      "Location": "Chennai, India"
+    },
+    {
+      "Institution": "Kalaimahal Matric Higher Secondary School",
+      "Duration": "06/2019 – 03/2020",
+      "Degree": "12th (HSC)",
+      "Percentage": "87.6",
+      "Location": "Mayiladuthurai, India"
+    },
+    {
+      "Institution": "Kalaimahal Matric Higher Secondary School",
+      "Duration": "06/2017 – 03/2018",
+      "Degree": "10th (SSLC)",
+      "Percentage": "95.2",
+      "Location": "Mayiladuthurai, India"
+    }
+  ],
+  "Technical Skills": {
+    "Languages": ["C", "C++", "Python"],
+    "Data Science": ["Standard ML Algorithms (Regression, Classification, Clustering)"],
+    "Data Analysis": ["NumPy", "Pandas", "Matplotlib"],
+    "Database": ["MySQL"],
+    "Data Visualization": ["Tableau"],
+    "Big Data": ["PySpark"]
+  },
+  "Projects": [
+    {
+      "Title": "Lok Sabha Election 2024 Data Analysis",
+      "Description": [
+        "This Project presents key insights derived from an analysis of election data.",
+        "The analysis focuses on understanding voting patterns, candidate performance, and electoral competitiveness across states and constituencies."
+      ]
+    },
+    {
+      "Title": "MedOptiFlow - Healthcare with AI and ML",
+      "Description": [
+        "It provides accurate illness predictions from symptoms, revolutionizing health information accessibility.",
+        "Slick frontend designs were provided using HTML, CSS, and Bootstrap, while Python and Flask were used for the backend to integrate machine learning models for accurate predictions."
+      ]
+    },
+    {
+      "Title": "Smart Attendance System using OpenCV",
+      "Description": [
+        "Implemented the K-Nearest Neighbor (K-NN) classification algorithm.",
+        "Utilized OpenCV precise frontal face detection under 700 milliseconds.",
+        "Achieved an outstanding error rate below 3% on a dataset comprising 1,000 images."
+      ]
+    },
+    {
+      "Title": "Used Car Price Prediction",
+      "Description": [
+        "Developed a machine learning model for predicting used car prices by leveraging regression techniques.",
+        "Employed Python and popular data science libraries, such as NumPy and Pandas, to preprocess data and build a predictive model."
+      ]
+    }
+  ],
+  "Certifications": [
+    "Data Science Masters Program, Edureka (01/2023 – 03/2024)",
+    "SQL and Database (02/2024)",
+    "Tableau Desktop Certified Associate (09/2023)",
+    "Python for Data Science Professional, Edureka (03/2023)",
+    "Exploratory Data Analysis For Machine Learning, Coursera (12/2022)",
+    "Basics of Python Programming, IIT Kharagpur (11/2021)"
+  ],
+  "Achievements": [
+    "Code for Good: Participated in a Code for Good 2024 conducted by JP Morgan, and reached the final stage of a virtual hackathon.",
+    "Hackathon: Participated and reached up to third level in the 'Smart Campus Hackathon' conducted by SRM Innovation and Incubation Center and made a Smart Attendance system using OpenCV.",
+    "Barclays Value Added Course: Got shortlisted for the PySpark and Tableau course, one among the 30 students from my college."
+  ]
+}
